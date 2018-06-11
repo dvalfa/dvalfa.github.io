@@ -1,0 +1,45 @@
+.page{
+	min-height: 1000px;
+	
+	background-color: #414048;
+	
+	transition-duration: 1s;
+	scroll-behavior: smooth;
+	z-index: 1;
+	padding: 100px 8.5%;
+	opacity:1;
+
+}
+#Namelogo{
+	opacity:2;
+}
+
+
+body
+{
+	scroll-behavior: smooth;
+	color:#f3e3bc;
+	
+}
+i
+{
+	color:#52a5a0;
+}
+
+a:hover{
+	color: #9dc3c6;
+}
+/*Chocolate
+#e8553f
+Copy
+Wheat
+#f3e3bc
+Copy
+Dark Slate Gray
+#414048
+Copy
+Cadet Blue
+#52a5a0
+Copy
+Light Steel Blue
+#9dc3c6*/
