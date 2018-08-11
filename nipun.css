@@ -33,6 +33,12 @@ i
 a:hover{
 	color: #9dc3c6;
 }
+@media screen and (max-width:480px) {  
+  .disappear {
+    display: none;
+  }
+}
+
 /*Chocolate
 #e8553f
 Copy
