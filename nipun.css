@@ -1,7 +1,7 @@
 .page{
 	min-height: 1000px;
 	
-	background-color: #414048;
+	background-color: #FBFBFB;
 	
 	transition-duration: 1s;
 	scroll-behavior: smooth;
@@ -22,16 +22,16 @@
 body
 {
 	scroll-behavior: smooth;
-	color:#f3e3bc;
+	color:#DA9560;
 	
 }
 i
 {
-	color:#52a5a0;
+	color:#F4A292;
 }
 
 a:hover{
-	color: #9dc3c6;
+	color: #DA9560;
 }
 @media screen and (max-width:480px) {  
   .disappear {
@@ -39,17 +39,17 @@ a:hover{
   }
 }
 
-/*Chocolate
-#e8553f
+/*Rosy Brown
+#B57C68
 Copy
-Wheat
-#f3e3bc
+Tan
+#D7C9BA
 Copy
 Dark Slate Gray
-#414048
+#494A54
 Copy
-Cadet Blue
-#52a5a0
+Gray
+#958E89
 Copy
-Light Steel Blue
-#9dc3c6*/
+Light Slate Gray
+#9FB0B9*/
